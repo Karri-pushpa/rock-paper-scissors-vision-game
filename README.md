@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Vision Game 🎮
+# Rock-Paper-Scissors Vision Game 
 
 A **computer vision-based Rock-Paper-Scissors game** built with **Python, OpenCV, and Mediapipe**.  
 The game detects **hand gestures in real-time** and determines the winner instantly.  
