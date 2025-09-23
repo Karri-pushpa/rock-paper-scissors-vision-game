@@ -1,23 +1,20 @@
+✋ Rock-Paper-Scissors Vision Game 🎮
 
-# Rock Paper Scissors Vision Game 🎮✋✌️🪨
+A **computer vision-based Rock-Paper-Scissors game** built with **Python, OpenCV, and Mediapipe**.  
+The game detects **hand gestures in real-time** and decides the winner instantly.  
 
-A computer vision-based Rock-Paper-Scissors game built using **Python, OpenCV, and MediaPipe**.  
-The player shows hand gestures (rock, paper, scissors) via webcam, and the computer makes its own move.  
+---
 
-## Features
-- Detects **hand gestures** using MediaPipe
-- Plays **Rock, Paper, Scissors** against the computer
-- Keeps track of **scores & rounds**
-- Shows real-time results on the screen
+# Features
+- Real-time **hand gesture detection** using Mediapipe.  
+- Play **Rock-Paper-Scissors** against the computer.  
+- Instant result calculation with smooth gameplay.  
+- Simple and interactive **vision-based interface**.  
 
-##  Tech Stack
-- Python 3.11
-- OpenCV
-- MediaPipe
-- Random module
+---
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/rock-paper-scissors-vision-game.git
-   cd rock-paper-scissors-vision-game
+Tech Stack
+- **Python 3.11+**  
+- **OpenCV**  
+- **Mediapipe**  
+
